@@ -17,3 +17,11 @@ Dylib exposes APIs in two ways:
 1. as traditional C APIs, which are exported explicitly
 2. as OC methods, which are dispatched at runtime
 
+## iOS Dynamic Code Generation
+Apart from Safari, no other apps are entitled with "dynamic codesign".
+
+## Target Action Design Pattern
+The target-action design pattern is used by all control classes (e.g. UIButton, UITextField) that are derived from the UIControl base class.
+
+
+
