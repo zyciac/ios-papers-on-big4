@@ -22,8 +22,13 @@ Apart from Safari, no other apps are entitled with "dynamic codesign".
 
 ## Target Action Design Pattern
 The target-action design pattern is used by all control classes (e.g. UIButton, UITextField) that are derived from the UIControl base class.
+Objective-C:
 
 ```[myClass myMethod]```
+
+C:
+
 ``` void msgsend(Class, Selector);```
-``` void msgsend(Class="myClass",. Selector="MyMethod"); ```
+
+``` msgsend(Class="myClass",. Selector="MyMethod"); ```
 
