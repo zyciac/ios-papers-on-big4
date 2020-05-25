@@ -6,8 +6,10 @@ Notes for papers from big-4 conferences (S&P, CCS, USENIX, NDSS) that are relate
 * Porting Valgrind to iOS, the first intruction-level dynamic binary instrumentation framework on iOS.
 
 ## iOS Class hierarchy
-MyClass my_instance:
+MyClass my_instance
+
 my_instance.isa -> MyClass_MetaClass
+
 MyClass_MetaClass.super -> FatherClass
 
 ## iOS Dynamic Libs
