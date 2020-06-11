@@ -1,4 +1,4 @@
-*USENIX16:*
+**USENIX16:**
 
 Automatically Detecting Error Handling Bugs using Error Specifications
 
@@ -8,13 +8,13 @@ Dancing on the Lip of the Volcano:
 Chosen Ciphertext Attacks on Apple iMessage
 	
 
-*USENIX17:*
+**USENIX17:**
 
 vTZ: Virtualizing ARM TrustZone
 
 Measuring the Insecurity of Mobile Deep Links of Android
 
-*USENIX18:*
+**USENIX18:**
 
 Who Left Open the Cookie Jar?
 A Comprehensive Evaluation of Third-Party Cookie Policies
@@ -32,7 +32,7 @@ Applications
 O Single Sign-Off, Where Art Thou? An Empirical Analysis of Single
 Sign-On Account Hijacking and Session Management on the Web
 
-*USENIX19:*
+**USENIX19:**
 
 A Billion Open Interfaces for Eve and Mallory:
 MitM, DoS, and Tracking Attacks on
